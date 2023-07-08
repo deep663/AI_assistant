@@ -56,7 +56,7 @@ def take_photo():
 def get_weather(query):
     base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
-    api_key = '7d0478d7c1feea2c751008510c90a44a'
+    api_key = 'API KEY'
 
     if "here" in query:
         response = requests.get("https://ipapi.co/json/")
