@@ -7,7 +7,7 @@ This code snippet demonstrates a Voice Assistant using Python. It can perform va
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/voice-assistant.git
+   git clone https://github.com/deep663/AI_assistant.git
    ```
 
 2. Install the required libraries:
