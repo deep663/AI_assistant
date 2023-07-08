@@ -1,6 +1,6 @@
 # Voice Assistant
 
-This code snippet demonstrates a Voice Assistant using Python. It can perform various tasks such as searching the web, opening applications, sending emails, telling jokes, providing weather information, taking photos, and more.
+This a Voice Assistant using Python. It can perform various tasks such as searching the web, opening applications, sending emails, telling jokes, providing weather information, taking photos, and more.
 
 ## Installation
 
